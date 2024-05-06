@@ -1,0 +1,11 @@
+operator:
+    address: 0x8beef538986aeb2ee1a80b5e1febc16d8643a23d
+    earnings_receiver_address: 0x8beef538986aeb2ee1a80b5e1febc16d8643a23d
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: "https://dalten.sfo2.digitaloceanspaces.com/sicdev-pilnup/files/metadata.json"
+el_delegation_manager_address: 0x39053D51B77DC0d36036Fc1fCc8Cb819df8Ef37A
+eth_rpc_url: http://localhost:8545
+private_key_store_path: /home/kennyrowe/.eigenlayer/operator_keys/onchain.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 1
